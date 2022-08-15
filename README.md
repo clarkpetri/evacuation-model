@@ -7,10 +7,10 @@
 ## Supplemental Information
 ---
 ### Included Python Files
-- run.py: execute this file from the terminal to launch the model (ensure model.py and server.py are in the same the folder)
-- model.py: the model class, various agent classes, and requisite functions
-- server.py: the MESA visualization suite to produce a browser-based GUI
 - batch.py: batch run file for multiple replications and parameter sweeps. Includes code for producing .csv of output
+- model.py: the model class, various agent classes, and requisite functions
+- run.py: execute this file from the terminal to launch the model (ensure model.py and server.py are in the same the folder)
+- server.py: the MESA visualization suite to produce a browser-based GUI
 
 ### Included Data Files
 - test(5).zip: contains .csv of five replication batch run
