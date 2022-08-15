@@ -13,4 +13,8 @@
 - batch.py: batch run file for multiple replications and parameter sweeps. Includes code for producing .csv of output
 
 ### Included Data Files
-- data.zip: includes three .csv files for 5, 10, and 15 replication runs, which were the basis of model output data analysis
+- test(5).zip: contains .csv of five replication batch run
+- test(10).zip: contains .csv of ten replication batch run
+- test(15).zip: contains .csv of fifteen replication batch run
+
+**(these were the data for model output analysis)**
